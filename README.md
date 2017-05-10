@@ -9,5 +9,8 @@ A list of videos from tech conferences.
 ## RubyConf 2016
 * ["Am I Senior Yet?" Grow your career by teaching your peers](https://www.youtube.com/watch?v=jcTmoOHhG9A&t=25s) by Katlyn Parvin
 
+## RubyConf 2013
+* [API Design for gem authors (and users)](https://www.youtube.com/watch?v=ieiAyfTwekA) by Emily Stolfo
+
 ## License
 MIT License: See [the LICENSE file](https://raw.githubusercontent.com/prachigotkhindikar1/conference_videos/master/LICENSE)
