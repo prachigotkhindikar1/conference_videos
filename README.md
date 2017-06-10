@@ -12,5 +12,8 @@ A list of videos from tech conferences.
 ## RubyConf 2013
 * [API Design for gem authors (and users)](https://www.youtube.com/watch?v=ieiAyfTwekA) by Emily Stolfo
 
+### Docker
+* [Why we build Docker?](https://www.youtube.com/watch?v=3N3n9FzebAA&t=4s) by Solomon Hykes
+
 ## License
 MIT License: See [the LICENSE file](https://raw.githubusercontent.com/prachigotkhindikar1/conference_videos/master/LICENSE)
